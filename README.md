@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aswin and I'm aIT Consultant @ EY</h2>
+<h2 align="center">Hi 👋! My name is Aswin and I'm an IT Consultant @ EY</h2>
 
 ###
 
