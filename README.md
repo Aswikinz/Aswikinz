@@ -2,9 +2,10 @@
 
 ###
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Azwikinz.png" alt="TryHackMe Badge" height="150">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Azwikinz.png" alt="TryHackMe Badge" height="100">
 </div>
 
+###
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswikinz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
