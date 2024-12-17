@@ -2,8 +2,7 @@
 
 ###
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Azwikinz.png" alt="TryHackMe Badge" height="100">
-</div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Azwikinz.png" alt="TryHackMe Badge" height="80">
 
 ###
 
